@@ -1,2 +1,2 @@
 # HiroyukiVoiceApp_PrivacyPolicy
-「フルーツクイズ！」用のプライバシーポリシーサイト
+「ひろゆきボタン」用のプライバシーポリシーサイト
